@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Soroye Abdulazeem Pamilerin
-- 🌱 I’m a junior Python developer
+- 🌱 I’m a Python and a website developer
 - 💞️ I’m looking to collaborate on building a website
 - 📫 You can ask me by sending me an e-mail asoroye3@gmail.com
 <!---
